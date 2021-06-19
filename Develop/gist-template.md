@@ -1,6 +1,6 @@
-# Title (replace with your title)
+# Matching URL Regex
 
-Introductory paragraph (replace this with your text)
+What in the world Regex? Where and why would we use them? In this small tutorial I will hopefully be able to explain that to you while also showing you an example!
 
 ## Summary
 
